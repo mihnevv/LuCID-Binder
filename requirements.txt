@@ -1,0 +1,8 @@
+# Diese Konfigurationsdatei enthält alle gebrauchten Modulen,
+# die nicht in der Standardbibliothek enthalten sind.
+
+matplotlib==3.3.2
+pandas==1.1.2
+numpy==1.19.2
+nose==1.3.7
+requests_oauthlib==1.3.0
