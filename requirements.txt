@@ -1,5 +1,5 @@
 matplotlib    	 # aus for_loop
-json         	 # aus json 
+# json         	 # aus json 
 requests      	 # aus Web_APIs
 requests_oauthlib # aus Web_APIs
 statistics		 # aus economics
