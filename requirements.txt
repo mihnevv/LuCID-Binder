@@ -3,7 +3,7 @@ matplotlib    	 # aus for_loop
 requests      	 # aus Web_APIs
 requests_oauthlib # aus Web_APIs
 statistics		 # aus economics
-unittest
+# unittest
 io
 mock					 # aus for_loop
 # math					 # aus libraries
