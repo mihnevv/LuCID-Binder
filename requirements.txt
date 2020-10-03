@@ -4,7 +4,7 @@ requests      	 # aus Web_APIs
 requests_oauthlib # aus Web_APIs
 statistics		 # aus economics
 mock					 # aus for_loop
-math					 # aus libraries
+# math					 # aus libraries
 turtle					 # aus libraries
 random 					 # aus while und functions
 
