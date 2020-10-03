@@ -6,7 +6,7 @@ statistics		 # aus economics
 mock					 # aus for_loop
 # math					 # aus libraries
 # turtle					 # aus libraries
-random 					 # aus while und functions
+# random 					 # aus while und functions
 
 #Zur Kontrolle:
 #from unittest import mock (aus for_loop)
